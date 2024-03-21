@@ -1,3 +1,5 @@
-# Notes
+# Описание
 
-- For this mode should be checked "camera"->"Depth of Field"
+- Для этого режима нужно поставить "camera"->"Depth of Field"
+
+Определяет глубину размытия элементов на заднем плане.
